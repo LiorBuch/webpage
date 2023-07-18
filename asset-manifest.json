@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/webpage/static/css/main.19d325cb.css",
-    "main.js": "/webpage/static/js/main.5b38832e.js",
-    "static/js/787.98498dfe.chunk.js": "/webpage/static/js/787.98498dfe.chunk.js",
-    "static/media/bh.gif": "/webpage/static/media/bh.a500cf5ff6d078e24179.gif",
-    "index.html": "/webpage/index.html",
-    "main.19d325cb.css.map": "/webpage/static/css/main.19d325cb.css.map",
-    "main.5b38832e.js.map": "/webpage/static/js/main.5b38832e.js.map",
-    "787.98498dfe.chunk.js.map": "/webpage/static/js/787.98498dfe.chunk.js.map"
+    "main.css": "/static/css/main.656cec35.css",
+    "main.js": "/static/js/main.938c5e0d.js",
+    "static/js/787.98498dfe.chunk.js": "/static/js/787.98498dfe.chunk.js",
+    "static/media/reactgif.gif": "/static/media/reactgif.39b66caaf38451884148.gif",
+    "static/media/tf.png": "/static/media/tf.5d49847106d9588c5473.png",
+    "static/media/auto.png": "/static/media/auto.1c1524574d2228eb21ee.png",
+    "static/media/ue.jpg": "/static/media/ue.c1dedeac7c8278206a97.jpg",
+    "static/media/tfskill.png": "/static/media/tfskill.6ceb7cdbe9b8c69dd0e9.png",
+    "index.html": "/index.html",
+    "main.656cec35.css.map": "/static/css/main.656cec35.css.map",
+    "main.938c5e0d.js.map": "/static/js/main.938c5e0d.js.map",
+    "787.98498dfe.chunk.js.map": "/static/js/787.98498dfe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.19d325cb.css",
-    "static/js/main.5b38832e.js"
+    "static/css/main.656cec35.css",
+    "static/js/main.938c5e0d.js"
   ]
 }
