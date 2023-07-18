@@ -6,8 +6,6 @@ import gameimg from './assets/ue.jpg'
 import autoimg from './assets/auto.png'
 import cloudimg from './assets/azure-cloud.png'
 import aimg from './assets/tf.png'
-
-import tfskill from './assets/skills/tfskill.png'
 function Cards(){
     return(
         <div className={"cards"}>

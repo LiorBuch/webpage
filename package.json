@@ -1,6 +1,6 @@
 {
   "name": "webpage",
-  "homepage": "https:/liorbuch.github.io/webpage",
+  "homepage": "./",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
@@ -53,6 +53,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^5.0.0",
+    "@babel/plugin-proposal-private-property-in-object": "7.21.0-placeholder-for-preset-env.2"
   }
 }
