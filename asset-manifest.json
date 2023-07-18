@@ -1,20 +1,23 @@
 {
   "files": {
     "main.css": "./static/css/main.656cec35.css",
-    "main.js": "./static/js/main.244c18ba.js",
+    "main.js": "./static/js/main.d6eff70c.js",
     "static/js/787.98498dfe.chunk.js": "./static/js/787.98498dfe.chunk.js",
     "static/media/reactgif.gif": "./static/media/reactgif.39b66caaf38451884148.gif",
     "static/media/tf.png": "./static/media/tf.5d49847106d9588c5473.png",
+    "static/media/pythonicon.png": "./static/media/pythonicon.1eaaad356f1e20a2540f.png",
     "static/media/auto.png": "./static/media/auto.1c1524574d2228eb21ee.png",
     "static/media/ue.jpg": "./static/media/ue.c1dedeac7c8278206a97.jpg",
+    "static/media/pandasimg.png": "./static/media/pandasimg.02e7e103ec912e19abf3.png",
     "static/media/tfskill.png": "./static/media/tfskill.6ceb7cdbe9b8c69dd0e9.png",
+    "static/media/Kivy_logo.png": "./static/media/Kivy_logo.d9976e52d2468e8b2aac.png",
     "index.html": "./index.html",
     "main.656cec35.css.map": "./static/css/main.656cec35.css.map",
-    "main.244c18ba.js.map": "./static/js/main.244c18ba.js.map",
+    "main.d6eff70c.js.map": "./static/js/main.d6eff70c.js.map",
     "787.98498dfe.chunk.js.map": "./static/js/787.98498dfe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.656cec35.css",
-    "static/js/main.244c18ba.js"
+    "static/js/main.d6eff70c.js"
   ]
 }
