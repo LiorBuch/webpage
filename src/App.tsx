@@ -1,16 +1,24 @@
 import './App.css';
-import bh from './assets/bh.gif'
 import BackStar from './comps/background'
+import NavBar from "./comps/NavBar";
+import React from "react";
+import {HashRouter as Router} from "react-router-dom";
+import Cards from "./comps/Cards";
+import Footer from "./comps/Footer";
+import SkillCards from "./comps/SkillCards";
 
 function App() {
-  return (
-    <div>
-      <BackStar/>
-      <img src={bh} alt="BH"/>
-      <h1>Hello There!</h1>
-      <h1>site under constructions</h1>
-    </div>
-  );
+    return (
+        <div>
+            <BackStar/>
+            <Router>
+                <NavBar/>
+                <Cards/>
+                <SkillCards/>
+                <Footer/>
+            </Router>
+        </div>
+    );
 }
 
 export default App;

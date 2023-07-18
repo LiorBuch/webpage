@@ -21,7 +21,7 @@ function BackStar(){
                 "autoPlay": true,
                 "background": {
                   "color": {
-                    "value": "#000"
+                    "value": "rgb(3,37,54)"
                   },
                   "image": "",
                   "position": "",
