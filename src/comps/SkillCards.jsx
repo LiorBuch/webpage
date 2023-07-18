@@ -1,6 +1,8 @@
 import React from "react";
-import gameimg from './assets/ue.jpg'
-import autoimg from './assets/auto.png'
+import numpyimg from './assets/numpyicon.png'
+import pandasimg from './assets/pandasimg.png'
+import pythonimg from './assets/pythonicon.png'
+import kivyimg from './assets/Kivy_logo.png'
 import tfskill from './assets/skills/tfskill.png'
 import CardItem from "./CardItem";
 import './Cards.css'
@@ -21,25 +23,25 @@ function SkillCards(){
                             path={"/"}
                         />
                         <CardItem
-                            src={autoimg}
+                            src={pandasimg}
                             text={"Pandas"}
                             label={'Core'}
                             path={"/projects"}
                         />
                         <CardItem
-                            src={gameimg}
+                            src={numpyimg}
                             text={"Numpy"}
                             label={'Core'}
                             path={"/projects"}
                         />
                         <CardItem
-                            src={gameimg}
+                            src={pythonimg}
                             text={"ParallelComputing"}
                             label={'Core'}
                             path={"/projects"}
                         />
                         <CardItem
-                            src={gameimg}
+                            src={kivyimg}
                             text={"Kivy"}
                             label={'UI'}
                             path={"/projects"}
